@@ -40,5 +40,5 @@ I make section dividing researchers published more than two papers about abuse d
 
 ## Dataset
 
-* Hate Speech [[dataset]](https://github.com/ZeerakW/hatespeech)
-  - Twitter dataset of 16,914 tweets with _racism_, _sexism_, or _neither_.
+* **Hate Speech** [[dataset]](https://github.com/ZeerakW/hatespeech)<br>
+Twitter dataset of 16,914 tweets with _racism_, _sexism_, or _neither_.
