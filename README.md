@@ -8,13 +8,13 @@ Abuse Detection을 다룬 연구 논문 2개 이상의 연구자는 따로 분�
 I make section dividing researchers published more than two papers about abuse detection.<br>
 
 * Pushkar Mishra (University of Cambridge, Facebook AI London) [[profile]](https://scholar.google.com/citations?user=bVcZ1qkAAAAJ&hl=en)
-  - **Neural Character-based Composition Models for Abuse Detection** [[paper]](https://www.aclweb.org/anthology/W18-5101.pdf)<br>
-  Pushkar Mishra, Helen Yannakoudakis, Ekaterina Shutova<br>
-  Proceedings of the Empirical Methods in Natural Language Processing (EMNLP) Workshop on Abusive Language Online 2018
-
   - **Author Profiling for Abuse Detection** [[paper]](https://www.aclweb.org/anthology/C18-1093.pdf)<br>
   Pushkar Mishra, Macro Del Tredici, Helen Yannakoudakis, Ekaterina Shutova
   Proceedings of the 27th International Conference on Computational Linguistics (ACL) 2018
+  
+  - **Neural Character-based Composition Models for Abuse Detection** [[paper]](https://www.aclweb.org/anthology/W18-5101.pdf)<br>
+  Pushkar Mishra, Helen Yannakoudakis, Ekaterina Shutova<br>
+  Proceedings of the Empirical Methods in Natural Language Processing (EMNLP) Workshop on Abusive Language Online 2018
 
   - **Abusive Language Detection with Graph Convolution Networks** [[paper]](https://arxiv.org/pdf/1904.04073.pdf)<br>
   Pushkar Mishra, Macro Del Tredici, Helen Yannakoudakis, Ekaternia Shutova
