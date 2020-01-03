@@ -24,6 +24,10 @@ I make section dividing researchers published more than two papers about abuse d
   Pushkar Mishra, Helen Yannakoudakis, Ekaternia Shutova<br>
   Preprint
 
+* Waseem and Hovy
+  - To be updated
+
+
 * Ji Ho Park (HKUST, Oyalabs) [[profile]](https://scholar.google.com/citations?hl=en&user=_8TAJDIAAAAJ)
   - **One-step and two-step classification for abusive language detection on twitter** [[paper]](https://arxiv.org/ftp/arxiv/papers/1706/1706.01206.pdf)<br>
   Ji Ho Park and Pascale Fung<br>
