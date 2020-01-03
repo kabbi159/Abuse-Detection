@@ -10,7 +10,7 @@ I make section dividing researchers published more than two papers about abuse d
 * Pushkar Mishra (University of Cambridge, Facebook AI London) [[profile]](https://scholar.google.com/citations?user=bVcZ1qkAAAAJ&hl=en)
   - **Author Profiling for Abuse Detection** [[paper]](https://www.aclweb.org/anthology/C18-1093.pdf)<br>
   Pushkar Mishra, Macro Del Tredici, Helen Yannakoudakis, Ekaterina Shutova<br>
-  Proceedings of the 27th International Conference on Computational Linguistics (ACL) 2018
+  Proceedings of the 27th International Conference on Computational Linguistics (COLING) 2018
   
   - **Neural Character-based Composition Models for Abuse Detection** [[paper]](https://www.aclweb.org/anthology/W18-5101.pdf)<br>
   Pushkar Mishra, Helen Yannakoudakis, Ekaterina Shutova<br>
